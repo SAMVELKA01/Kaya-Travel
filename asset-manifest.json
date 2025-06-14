@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kaya-Travel/static/css/main.9436788b.css",
+    "main.js": "/Kaya-Travel/static/js/main.6690e945.js",
+    "index.html": "/Kaya-Travel/index.html",
+    "main.9436788b.css.map": "/Kaya-Travel/static/css/main.9436788b.css.map",
+    "main.6690e945.js.map": "/Kaya-Travel/static/js/main.6690e945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9436788b.css",
+    "static/js/main.6690e945.js"
+  ]
+}
