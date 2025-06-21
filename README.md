@@ -28,6 +28,20 @@ Le site propose :
 
 ---
 
+## 🧠 Auteur
+Projet réalisé par Samuel Kakou dans le cadre d’un apprentissage React, avec l’objectif de produire un site professionnel, responsive et prêt pour un déploiement sur GitHub Pages.
+
+📞 Contact
+Si vous souhaitez en savoir plus sur ce projet ou me contacter :
+
+Nom : Samuel Kakou
+
+Étudiant en informatique, passionné par le développement web et la cybersécurité.
+
+📧 Envoyer un email - Samueldesirek165@gmail.com
+
+🔗 Profil GitHub- https://github.com/SAMVELKA01
+
 ## 🚀 Installation en local
 
 1. Clone le dépôt :
@@ -35,3 +49,6 @@ Le site propose :
 ```bash
 git clone https://github.com/SAMVELKA01/Kaya-Travel.git
 cd Kaya-Travel
+
+
+
